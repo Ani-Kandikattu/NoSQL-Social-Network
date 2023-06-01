@@ -1,0 +1,21 @@
+{
+  "name": "nosql-social-network",
+  "version": "1.0.0",
+  "description": "This is the repo for an API for a social network web app where users can share thoughts, react to friends' thoughts and create a friend list. It uses Express.Js, MongoDB and Mongoose ODM.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ani-Kandikattu/NoSQL-Social-Network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ani-Kandikattu/NoSQL-Social-Network/issues"
+  },
+  "homepage": "https://github.com/Ani-Kandikattu/NoSQL-Social-Network#readme"
+}
