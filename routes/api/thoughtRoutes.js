@@ -12,7 +12,7 @@ const {
 // /api/thoughts
 router.route("/").get(getThoughts).post(createThought);
 
-// /api/thoughts/:id
+// /api/thoughts/:thoughtId
 router
   .route("/:thoughtId")
   .get(getThoughtById)
